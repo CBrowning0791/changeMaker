@@ -7,5 +7,8 @@ If User enters in a numeric amount without a decimal point, out of bounds except
 
 Application will allow non numeric entry
 
+
+
 To start, using command prompt navigate to directory and enter: "java main". 
-If user wnats to recompile enter project instead use "javac main.java" then followed by "java main".
+
+If user wants to recompile enter project instead use "javac main.java" then followed by "java main".
