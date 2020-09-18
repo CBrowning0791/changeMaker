@@ -1,9 +1,10 @@
 # changeMaker
 Quick Java command line application to make change from a  given USD input.
 
-BUG LIST:
+BUG LIST: 
 
 If User enters in a numeric amount without a decimal point, out of bounds exception will occur.
+
 Application will allow non numeric entry
 
 To start, using command prompt navigate to directory and enter: "java main". 
